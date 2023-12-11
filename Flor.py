@@ -1,7 +1,10 @@
 from turtle import *
 import colorsys
 import math
-
+def main():
+    print("¡Hola amor!")
+    print("Espero te guste este pqueño detalle te amo mi amor¨:\n")
+    
 speed(0.25)
 bgcolor("black")
 
